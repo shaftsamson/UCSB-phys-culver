@@ -42,5 +42,5 @@ plt.ylim(0, 512)
 # Show the plot
 plt.show()
 
-#to make the plot sharper, we could easily increase the pixel number
+#to make the plot sharper, we could easily increase the pixel number. 
 
